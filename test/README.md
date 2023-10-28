@@ -10,10 +10,11 @@ by adding `test` to your list of dependencies in `mix.exs`:
 ```elixir
 def deps do
   [
-    {:test, "~> 0.1.0"}
   ]
 end
 ```
+
+My topic
 
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
